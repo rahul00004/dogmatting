@@ -1,0 +1,187 @@
+#title{
+
+}
+.h11 h1{
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 4.9rem;
+  padding-left: 20px;
+
+}
+.btn{
+  font-family: 'Ubuntu', sans-serif;
+background-color: black;
+p
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+
+}
+body{
+  font-family: 'Montserrat';
+  position: absolute;
+}
+.navbar-toggler{
+  color:#fff;
+}
+/*navigation-bar*/
+
+
+.container-fluid .navbar-brand {
+
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 2.2rem;
+    line-height: inherit;
+    white-space: nowrap;
+    color: white;
+}
+
+.container-fluid .navbar {
+
+padding-left: 20px;
+margin-bottom: 4.5rem;
+
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Montserrat light';
+
+}
+.navbar-nav
+{
+  color: white;
+}
+.h11 .Download-button{
+  margin: 5% 3% 5% 3% ;
+  padding-left: 20px;
+}
+
+.fas{
+  font-size: 10rem;
+  color: #ef8172;
+
+}
+.fas:hover{
+  color:#ff4c68
+}
+.far:hover{
+  color:#ff4c68
+}
+.far{
+  font-size: 10rem;
+  color: #ef8172;
+
+}
+
+.featu h3{
+  font-family: Montserrat-bold;
+  font-size: 1.5rem
+}
+p{
+  color:#8f8f8f;
+}
+.feat{
+  padding: 7% 15% 7% 15%;
+}
+.featu{
+  margin-left: 0px;
+padding-left: 114px;
+}
+#testimonials{
+  padding-left: 114px;
+  text-align: center;
+  background-color: #ef8172;
+  color:#fff;
+  padding-bottom: 81px;
+}
+.h22 h2{
+
+  font-family: 'Montserrat-bold';
+  font-size: 3rem;
+      line-height: 1;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px
+
+
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding:30px;
+}
+.press-image{
+  width:15%;
+  margin: 20px 20px 50px;
+}
+.carousel-item{
+  padding 7% 15%;
+}
+#pricing{
+  padding:100px;
+  text-align: center;
+}
+.pricing-column{
+  padding: 3% 2%;
+}
+#features {
+    background-color: #fff;
+    z-index: 1;
+    position: relative;}
+.title-image {
+    z-index: 0;
+    top: 67px;
+    position: absolute;
+    width: 38%;
+    transform: rotate(25deg)
+  }
+
+@media  (max-width: 1028px){
+  .title-image{
+    position: relative;
+    transform: rotate(0);
+  }
+  #title{
+    text-align: center;
+  }
+
+}
+#cta{
+  background-color: #ff4c68;
+  height: 300px;
+text-align: center;
+
+
+}
+.h44{
+  font-family: Montserrat black;
+  text-align: center;
+
+  font-size: 60px;
+color: #fff;
+}
+#footer{
+  height:100px;
+  text-align: center;
+}
+.ppp{
+  line-height: 100px;
+}
+.color-section{
+
+  background-color: #ff4c68;
+  color: #fff;
+
+
+}
+.no-color{
+  background-color: #fff;
+  color: black;
+}
